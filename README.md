@@ -1,5 +1,5 @@
 # Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office
-To discover if Netflix’s movies are getting shorter over time and which guest stars appear in the most popular episode of "The Office", using Exploratory Data Analysis
+To discover if Netflix’s movies are getting shorter over time and which guest stars appear in the most popular episode of "The Office", using Exploratory Data Analysis(EDA).
 ## Installation:
 ### Prerequisites
 1.Anaconda Python
