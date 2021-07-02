@@ -3,10 +3,13 @@ To discover if Netflix’s movies are getting shorter over time and which guest 
 ## Installation:
 ### Prerequisites
 1.Anaconda Python
+
 2.Jupyter Notebook
 
 ## Configuration
 1.Download the repository and extract in C drive
+
 2.Open Jupyter notebook,navigate and open notebook.ipynb
+
 3.Make sure the paths of .csv files are correct according to your machine
 
